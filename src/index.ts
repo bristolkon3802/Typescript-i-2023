@@ -1,1 +1,6 @@
-const hello = () => "h1";
+class Block {
+  constructor(private data: string) {}
+  static hello() {
+    return "Hi!";
+  }
+}
