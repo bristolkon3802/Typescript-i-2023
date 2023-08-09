@@ -42,3 +42,16 @@
     npm i nodemon
 
 1. 블록체인 디자인
+
+   - crypto 불러오기
+
+   - DefinitelyTyped 리파지토리
+
+   - nodejs에 필요한 타입 전부 설치
+
+```
+    npm i -D @types/node
+    npm i -D @types/[repositories-name]
+```
+
+2. 블록체인 만들기
