@@ -14,9 +14,10 @@
 
 3.  touch src/index.ts 파일 생성
 
-4.  touch 파일 생성
+4.  touch tsconfig.json 파일 생성
     - 이 파일이 있으면, vscode는 우리가 타입스크립트로 작업한다는 것을 알게 되고, 자동완성 기능을 제공
     - 실행
+    - lib : ["ES6","DOM-타겟 런타임 환경"]
 
 ```
    npm run build
