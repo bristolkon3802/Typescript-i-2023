@@ -6,7 +6,7 @@
  * @param {string} config.url
  * @returns {boolean}
  */
-export function inin(config) {
+export function init(config) {
   return true;
 }
 /**
